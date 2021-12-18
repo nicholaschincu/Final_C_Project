@@ -11,3 +11,4 @@ Visualizing data and models are very difficult in C compared to Python and other
 - Finally, to display an open screen for the planets and the sun to be displayed, we used initscr(), cbreak(), and keypad(stdscr, TRUE). At the end, we added endwin() to restore the terminal after the curses activity. endwin() clears any output to the terminal and moving the cursor back to the last line of the screen.
 
 # Screenshots of it working
+![image](https://user-images.githubusercontent.com/91165100/146628859-aa3973ac-bb31-4afa-adf0-f4399ab1d0b5.png)
