@@ -12,3 +12,5 @@ Visualizing data and models are very difficult in C compared to Python and other
 
 # Screenshots of it working
 ![image](https://user-images.githubusercontent.com/91165100/146628859-aa3973ac-bb31-4afa-adf0-f4399ab1d0b5.png)
+
+![image](https://user-images.githubusercontent.com/91165100/146628866-9b6fac19-6d16-42b7-b91e-4923f05478c7.png)
