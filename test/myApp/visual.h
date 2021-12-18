@@ -1,3 +1,5 @@
+//Tom did code below//
+
 /* vis.h */
 #ifndef VISUAL_H
 #define VISUAL_H
@@ -8,6 +10,7 @@
 #include <math.h>
 #include "planet_data.h"
 
+//Nicholas did code below//
 int CURTIME;
 int printSS(double row, double col);
 int numYear(int year);

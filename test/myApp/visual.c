@@ -1,7 +1,7 @@
 /* visual.c */
 #include "visual.h"
 
-
+//Tom did code below//
 int printSS(double row, double col){
   //double row, col;
   //getmaxyx(stdscr,row,col);
@@ -32,6 +32,7 @@ int printPlanet(double cA, double r, double c, int i){
   return SUCESS;
 }
 
+//Nicholas Chin did code below//
 int numYear(int year){
   init();
   CURTIME = 0;

@@ -1,6 +1,7 @@
 /* project.c */
 #include "planet_data.h"
 
+//Nicholas did code below//
 static struct Planet planet[8];
 
 /* Global Variable definitions */
@@ -18,6 +19,7 @@ int init(){
   planet[6].period = 30685.4;
   planet[7].period = 60189.0;
 
+//Tom did code below//
   for(int i = 0; i < PlanetNum ; i++){
     planet[i].cA = cA(i);
   }
